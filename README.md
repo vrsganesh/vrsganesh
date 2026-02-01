@@ -1,12 +1,11 @@
 ## 👋 Hi, I'm Surya Ganesh
 
-🎓 B.Tech Computer Science (AI & Robotics) – VIT with 8.15 CGPA
-🔐 Aspiring Cybersecurity Engineer with strong Machine Learning & Blockchain foundations  
-🇬🇧 Preparing for UK Cybersecurity & SOC Analyst roles (Skilled Worker visa path)
+🎓 B.Tech Computer Science (AI & Robotics) – VIT 
+🔐 Aspiring Cybersecurity Engineer with strong Machine Learning & Blockchain foundations 
 
 ---
 
-## 🛡️ Cybersecurity Focus
+## 🛡️ Cybersecurity 
 - Network security & system fundamentals
 - Threat detection & log analysis (learning)
 - Secure data handling & cryptography (SHA-256)
