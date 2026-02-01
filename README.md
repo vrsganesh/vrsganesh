@@ -1,6 +1,7 @@
 ## 👋 Hi, I'm Surya Ganesh
 
 🎓 B.Tech Computer Science (AI & Robotics) – VIT 
+
 🔐 Aspiring Cybersecurity Engineer with strong Machine Learning & Blockchain foundations 
 
 ---
@@ -15,12 +16,12 @@
 ---
 
 ## 💻 Technical Skills
-**Languages:** Python, Java, JavaScript  
-**Cyber & Systems:** Linux, Networking basics, Cryptography  
-**ML & Data:** TensorFlow, PyTorch, Scikit-learn, Pandas, NumPy  
-**Blockchain:** Ethereum, Solidity, Smart Contracts  
-**Web & Backend:** Flask, NoSQL  
-**Tools:** Git, PowerBI, ROS, MATLAB Simulink, UiPath
+- **Languages:** Python, Java, JavaScript  
+- **Cyber & Systems:** Linux, Networking basics, Cryptography  
+- **ML & Data:** TensorFlow, PyTorch, Scikit-learn, Pandas, NumPy  
+- **Blockchain:** Ethereum, Solidity, Smart Contracts  
+- **Web & Backend:** Flask, NoSQL  
+- **Tools:** Git, PowerBI, ROS, MATLAB Simulink, UiPath
 
 ---
 
